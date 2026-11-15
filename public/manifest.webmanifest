@@ -1,0 +1,11 @@
+{
+  "name": "Notes Mate",
+  "short_name": "Notes Mate",
+  "description": "Learn piano together",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#f4f1ea",
+  "theme_color": "#f4f1ea",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
